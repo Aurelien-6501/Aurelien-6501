@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aurelien-6501
 
-- Computer science student
+- Student in computer science 
 - Annecy/Geneve
 
 
